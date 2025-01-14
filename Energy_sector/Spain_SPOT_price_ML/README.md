@@ -4,5 +4,7 @@ El proyecto consiste en realizar un modelo de ML para la predicción del **Preci
 
 De inicio se dispone de un notebook donde se ha realizado el análisis descriptivo de los datos que se disponen.
 
-Para el mismo proyecto se realizarán diferentes versiones y métodos para obtener la predicción del Precio SPOT de mercado diria en España:
+Para el mismo proyecto se realizarán diferentes versiones y métodos para obtener la predicción del Precio SPOT de mercado diario en España:
+
+- Por un lado, el archivo del Analisis Descriptivo de las diferentes variables de la base de datos
 
