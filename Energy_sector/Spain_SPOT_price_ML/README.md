@@ -7,5 +7,5 @@ De inicio se dispone de un notebook donde se ha realizado el análisis descripti
 Para el mismo proyecto se realizarán diferentes versiones y métodos para obtener la predicción del **Precio SPOT de mercado diario en España**:
 
 - Por un lado, el archivo del [Analisis Descriptivo](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/Analisis%20descriptivo.ipynb) de las diferentes variables de la base de datos
-- Por otro lado, el archivo donde se realiza la predicción de la variable **Precio SPOT de mercado diario en España**, tratando la variable como una serie temporal
+- Por otro lado, el archivo [ML_serie_temporal] (https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/ML_serie_temporal/ML_serie_temporal.ipynb) donde se realiza la predicción de la variable **Precio SPOT de mercado diario en España**, tratando la variable como una serie temporal
 
