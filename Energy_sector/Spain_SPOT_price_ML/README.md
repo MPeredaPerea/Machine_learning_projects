@@ -1,6 +1,6 @@
 # Daily SPOT Price Prediction for Spain
 
-This project focuses on building an ML model to predict the **Daily SPOT Price for Spain**.
+This project focuses on building an ML model to predict the **Daily SPOT Price for Spain**. Notebooks are made in spanish in this case.
 
 This work takes inspiration from the work of **Shivagaje Pranav Ashok**, who used a similar approach to predict electricity demand using the same dataset. You can find the reference notebook here: [Electricity Demand Forecast](https://www.kaggle.com/code/shivagajepranav111a/daily-electricity-demand-forecast-machine-learning/notebook#Model-Building).
 
