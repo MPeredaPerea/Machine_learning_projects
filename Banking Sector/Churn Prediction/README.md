@@ -2,6 +2,10 @@
 
 This project focuses on predicting customer **churn** using various machine learning algorithms. The goal is to analyze different models and evaluate their performance in predicting the likelihood of churn.
 
+## Files
+[Churn_Prediction_V1](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Churn%20Prediction/Churn_Prediction_V1.ipynb)
+[CSV File]
+
 ## **Project Overview**
 
 The project follows a two-step approach:
