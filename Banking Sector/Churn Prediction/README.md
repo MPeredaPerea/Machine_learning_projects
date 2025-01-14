@@ -4,6 +4,7 @@ This project focuses on predicting customer **churn** using various machine lear
 
 ## Files
 [Churn Prediction V1](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Churn%20Prediction/Churn_Prediction_V1.ipynb)
+
 [CSV File](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Churn%20Prediction/Churn_Modelling.csv)
 
 ## **Project Overview**
