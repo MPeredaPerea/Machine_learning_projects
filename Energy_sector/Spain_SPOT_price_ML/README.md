@@ -10,3 +10,4 @@ This project has an initial notebook containing a [Descriptive Analysis](https:/
 This project will explore different versions and methods to predict the **Daily SPOT Market Price in Spain**:
 
 - 1.[Time Series Analysis](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/Time_series/Time_series.ipynb): A notebook dedicated to predicting the **Daily SPOT Market Price in Spain**, treating the variable as a time series.
+- Other methods are yet to be posted.
