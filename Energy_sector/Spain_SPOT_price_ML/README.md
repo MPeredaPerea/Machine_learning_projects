@@ -6,5 +6,5 @@ De inicio se dispone de un notebook donde se ha realizado el análisis descripti
 
 Para el mismo proyecto se realizarán diferentes versiones y métodos para obtener la predicción del Precio SPOT de mercado diario en España:
 
-- Por un lado, el archivo del Analisis Descriptivo de las diferentes variables de la base de datos
+- Por un lado, el archivo del [Analisis Descriptivo](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/Analisis%20descriptivo.ipynb) de las diferentes variables de la base de datos
 
