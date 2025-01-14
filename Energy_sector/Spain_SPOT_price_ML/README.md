@@ -1,11 +1,10 @@
-# Predicción Precio SPOT Diario España
+# Daily SPOT Price Prediction for Spain
 
-El proyecto consiste en realizar un modelo de ML para la predicción del **Precio SPOT Diario España**. En este caso se tratara como un modelo de serie temporal, donde solo se utilizarán la variable datetime y el Precio mercado SPOT diario de España. Se tomará como base de partida el modelo realizado por **Shivagaje Pranav Ashok** para predecir la demanda de la electricidad desde la misma base de datos en el siguiente notebook: https://www.kaggle.com/code/shivagajepranav111a/daily-electricity-demand-forecast-machine-learning/notebook#Model-Building.
+This project focuses on building an ML model to predict the **Daily SPOT Price for Spain**. It will be treated as a time series model, using only the variables `datetime` and the **Daily SPOT Price for Spain**. The model takes inspiration from the work of **Shivagaje Pranav Ashok**, who used a similar approach to predict electricity demand using the same dataset in the following notebook: [Electricity Demand Forecast](https://www.kaggle.com/code/shivagajepranav111a/daily-electricity-demand-forecast-machine-learning/notebook#Model-Building).
 
-De inicio se dispone de un notebook donde se ha realizado el análisis descriptivo de los datos que se disponen.
+An initial notebook containing a descriptive analysis of the available data has already been prepared.
 
-Para el mismo proyecto se realizarán diferentes versiones y métodos para obtener la predicción del **Precio SPOT de mercado diario en España**:
+This project will explore different versions and methods to predict the **Daily SPOT Market Price in Spain**:
 
-- Por un lado, el archivo del [Analisis Descriptivo](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/Analisis%20descriptivo.ipynb) de las diferentes variables de la base de datos
-- Por otro lado, el archivo [ML_serie_temporal] (https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/ML_serie_temporal/ML_serie_temporal.ipynb) donde se realiza la predicción de la variable **Precio SPOT de mercado diario en España**, tratando la variable como una serie temporal
-
+- [Descriptive Analysis](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/Analisis%20descriptivo.ipynb): A detailed overview of the dataset variables.
+- [ML Time Series](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Energy_sector/Spain_SPOT_price_ML/ML_serie_temporal/ML_serie_temporal.ipynb): A notebook dedicated to predicting the **Daily SPOT Market Price in Spain**, treating the variable as a time series.
