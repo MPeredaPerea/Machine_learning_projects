@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a **machine learning project** designed to detect fraudulent transactions in a financial dataset. The solution leverages various algorithms and techniques to maximize accuracy and performance. The project includes descriptive analysis, data preprocessing, training, evaluation, and comparison of models under two scenarios:
-1. [**Filtered Transactions**]: Focuses on specific transaction patterns where fraud is more likely.
+1. [**Filtered Transactions**](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Fraud_Detection_Filtering.ipynb): Focuses on specific transaction patterns where fraud is more likely.
 2. [**Unfiltered Transactions**](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Fraud_Detection.ipynb): Includes all transaction types for broader analysis.
 
 ## Objective
