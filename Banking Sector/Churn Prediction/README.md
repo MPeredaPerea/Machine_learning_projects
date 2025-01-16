@@ -43,4 +43,11 @@ The project follows a two-step approach:
 ## **Results**
 
 - The model performance was compared based on the mentioned metrics, with a focus on finding the most reliable model for predicting churn.
+
+- **Results table**
+
+  [Results Table]
+
+## **Next Steps**
+
 - As the results haven´t been as good as expected on predicting the **class 1 (exited)**, next steps consist on finding new methods to try to improve the results
