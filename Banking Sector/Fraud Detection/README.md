@@ -23,7 +23,7 @@ The main goal is to develop a robust system to identify fraudulent activities wh
 ---
 
 ## Methodology
-### 1. Descriptive Analysis
+### 1. **Exploratory Data Analysis (EDA)**
 - Understand the information in the dataset.
 - Find patterns to identify Fraud
 ### 2. Data Preprocessing
