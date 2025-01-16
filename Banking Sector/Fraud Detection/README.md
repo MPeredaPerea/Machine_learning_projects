@@ -47,3 +47,6 @@ The performance of the models was analyzed and compared across the two scenarios
 ## Results
 - The results highlight how the inclusion or exclusion of specific transaction types affects model performance.
 
+- ![Non Filtered Results] (https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Images/normal.png)
+  
+
