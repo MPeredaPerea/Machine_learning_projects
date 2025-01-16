@@ -59,6 +59,7 @@ The performance of the models was analyzed and compared across the two scenarios
 ![Filtered Results](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Images/filtered.png)
 
 - In my opinion, the best result obtained is using the Logistic Regression Algorithm for the non Filtered Dataset. It is true that it makes so many wrong predictions, but at least is the one with the highest amount of true Fraud detections. The objective should be to mantain or increase this Recall value, while improving the Accuracy Metric.
-  [Logistic Regression ALG]
+![Logistic Regression ALG](https://github.com/user-attachments/assets/d4f3fcb2-f950-480a-b69e-7df992e45a19)
+
   
 
