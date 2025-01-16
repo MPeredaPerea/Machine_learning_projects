@@ -23,11 +23,14 @@ These algorithms were chosen for their diverse strengths in handling imbalanced 
 ---
 
 ## Methodology
-### 1. Data Preprocessing
-- **Initial Filtering**: Fraud was observed to occur only in `Transfer` and `Cash Out` transactions. The filtered version of the dataset focuses on these two transaction types.
+### 1. Descriptive Analysis
+- Understand the information in the dataset.
+- Find patterns to identify Fraud
+### 2. Data Preprocessing
+- **Initial Filtering** (For the Filtered Notebook): Fraud was observed to occur only in `Transfer` and `Cash Out` transactions. The filtered version of the dataset focuses on these two transaction types.
 - **Handling Imbalance**: Synthetic Minority Over-sampling Technique (**SMOTE**) was applied to balance the dataset for training.
 
-### 2. Model Training and Evaluation
+### 3. Model Training and Evaluation
 - **Training**: Models were trained using the filtered and unfiltered datasets.
 - **Evaluation Metrics**:
   - Accuracy
@@ -36,7 +39,7 @@ These algorithms were chosen for their diverse strengths in handling imbalanced 
   - F1 Score
   - Area Under the Receiver Operating Characteristic (ROC-AUC)
 
-### 3. Comparison
+### 4. Comparison
 The performance of the models was analyzed and compared across the two scenarios (filtered vs. unfiltered datasets) to understand the impact of filtering transaction patterns on fraud detection.
 
 ---
