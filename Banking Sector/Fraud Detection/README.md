@@ -49,7 +49,7 @@ The objective of using these two methods, it's to find the most suitable algorit
 
 - As said before, there are not enough Class 1 (Fraud) values in the test sample to make conclussions. So, this is a test to show how results should have been interpretated for a dataset with more Fraud values.
 
-- Results Interpretation: The most important metric is the class 1 Recall value, it shows how many Frauds have been predicted as no Fraud.
+- Results Interpretation: The most important metric is the class 1 Recall value, it shows how many true Frauds have been predicted as no Fraud.
 
 - The results highlight how the inclusion or exclusion of specific transaction types affects model performance.
 
