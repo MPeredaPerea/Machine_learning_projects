@@ -40,8 +40,8 @@ The main goal is to develop a robust system to identify fraudulent activities wh
   - Area Under the Receiver Operating Characteristic (ROC-AUC)
 
 ### 4. Comparison
-The performance of the models was analyzed and compared across the two scenarios (filtered vs. unfiltered datasets) to understand the impact of filtering transaction patterns on fraud detection.
 
+The objective of using these two methods, it's to find the most suitable algorithm for predicting Fraud. Increasing the amount of possibilities to find the best option.
 ---
 
 ## Results
