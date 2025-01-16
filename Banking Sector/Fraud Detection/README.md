@@ -5,6 +5,8 @@ This project is a **machine learning project** designed to detect fraudulent tra
 1. [**Filtered Transactions**](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Fraud_Detection_Filtering.ipynb): Focuses on specific transaction patterns where fraud is more likely.
 2. [**Unfiltered Transactions**](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Fraud_Detection.ipynb): Includes all transaction types for broader analysis.
 
+This project is a test, as the results are not entirely interpretable due to the low number of class 1 (fraud) samples.
+
 ## Objective
 The main goal is to develop a robust system to identify fraudulent activities while minimizing false positives. This is achieved by experimenting with multiple machine learning algorithms and comparing their performance under the two scenarios mentioned above.
 
@@ -17,8 +19,6 @@ The main goal is to develop a robust system to identify fraudulent activities wh
 4. **XGBoost Classifier**
 5. **Kneighbors Classifier**
 6. **Support Vector Classifier (SVC)**
-
-These algorithms were chosen for their diverse strengths in handling imbalanced datasets and their interpretability in the context of fraud detection.
 
 ---
 
@@ -45,6 +45,11 @@ The performance of the models was analyzed and compared across the two scenarios
 ---
 
 ## Results
+
+- As said before, there are not enough Class 1 (Fraud) values in the test sample to make conclussions. So, this is a test to show how results should have been interpretated for a dataset with more Fraud values.
+
+- Results Interpretation: The most important metric is the class 1 Recall value, it shows how many Frauds have been predicted as no Fraud.
+
 - The results highlight how the inclusion or exclusion of specific transaction types affects model performance.
 
 - Non Filtered Results
@@ -52,5 +57,8 @@ The performance of the models was analyzed and compared across the two scenarios
 
 - Filtered Results
 ![Filtered Results](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Fraud%20Detection/Images/filtered.png)
+
+- In my opinion, the best result obtained is using the Logistic Regression Algorithm for the non Filtered Dataset. It is true that it makes so many wrong predictions, but at least is the one with the highest amount of true Fraud detections. The objective should be to mantain or increase this Recall value, while improving the Accuracy Metric.
+  [Logistic Regression ALG]
   
 
