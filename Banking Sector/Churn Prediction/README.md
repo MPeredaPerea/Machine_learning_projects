@@ -46,7 +46,7 @@ The project follows a two-step approach:
 
 - **Results table**
 
-  [Results Table]
+  ![Results Table](https://github.com/MPeredaPerea/Machine_learning_projects/blob/main/Banking%20Sector/Churn%20Prediction/Images/churn%20results.png)
 
 ## **Next Steps**
 
