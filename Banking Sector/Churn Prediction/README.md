@@ -21,9 +21,9 @@ The project follows a two-step approach:
 
 ## **Steps in the Project**
 
-1. **Data Preprocessing**:
+1. **Data Preprocessing**
 
-2. **Exploratory Data Analysis (EDA)**:
+2. **Exploratory Data Analysis (EDA)**
 
 3. **Model Training & Evaluation**:
    - Implementing various classification models and tuning their hyperparameters.
