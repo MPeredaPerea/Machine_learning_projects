@@ -1,7 +1,7 @@
 # Fraud Detection Project
 
 ## Overview
-This project is a **machine learning pipeline** designed to detect fraudulent transactions in financial datasets. The solution leverages various algorithms and techniques to maximize accuracy and performance. The pipeline includes data preprocessing, training, evaluation, and comparison of models under two scenarios:
+This project is a **machine learning project** designed to detect fraudulent transactions in a financial dataset. The solution leverages various algorithms and techniques to maximize accuracy and performance. The project includes descriptive analysis, data preprocessing, training, evaluation, and comparison of models under two scenarios:
 1. **Filtered Transactions**: Focuses on specific transaction patterns where fraud is more likely.
 2. **Unfiltered Transactions**: Includes all transaction types for broader analysis.
 
@@ -12,9 +12,11 @@ The main goal is to develop a robust system to identify fraudulent activities wh
 
 ## Algorithms Used
 1. **Logistic Regression**
-2. **Random Forest Classifier**
-3. **Support Vector Classifier (SVC)**
+2. **Decision Tree**
+3. **Random Forest Classifier**
 4. **XGBoost Classifier**
+5. **Kneighbors Classifier**
+6. **Support Vector Classifier (SVC)**
 
 These algorithms were chosen for their diverse strengths in handling imbalanced datasets and their interpretability in the context of fraud detection.
 
@@ -41,4 +43,4 @@ The performance of the models was analyzed and compared across the two scenarios
 
 ## Results
 - The results highlight how the inclusion or exclusion of specific transaction types affects model performance.
-- Insights on the strengths and weaknesses of each algorithm were documented.
+
