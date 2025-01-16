@@ -50,4 +50,4 @@ The project follows a two-step approach:
 
 ## **Next Steps**
 
-- As the results haven´t been as good as expected on predicting the **class 1 (exited)**, next steps consist on finding new methods to try to improve the results
+- As the results haven´t been as good as expected on predicting the **class 1 (exited)**, next steps consist on finding new methods to try to improve the results. Such as applying the **SMOTE** technique on the train sample.
